@@ -7,7 +7,6 @@
 ## 📊 Dashboard Preview
 
 ![MEDICORE Hospital Patient Intelligence Dashboard](Dashboard.png)
-
 ---
 
 ## 📌 Project Overview
